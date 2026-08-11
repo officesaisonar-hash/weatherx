@@ -8,7 +8,7 @@ WeatherX uses real-time weather data from the OpenWeather API and provides curre
 
 ## 🌐 Live Demo
 
-Coming soon...
+[weatherx](https://officesaisonar-hash.github.io/weatherx/)
 
 ---
 
