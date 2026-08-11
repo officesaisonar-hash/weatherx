@@ -16,7 +16,10 @@ WeatherX uses real-time weather data from the OpenWeather API and provides curre
 
 Add your WeatherX screenshot here after taking it.
 
-![WeatherX Preview](screenshot.png)
+![WeatherX Preview](screenshot1.png)
+![WeatherX Preview](screenshot2.png)
+![WeatherX Preview](screenshot3.png)
+![WeatherX Preview](screenshot4.png)
 
 ---
 
